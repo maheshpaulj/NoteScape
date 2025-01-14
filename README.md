@@ -1,4 +1,4 @@
-# ![logo](https://i.imgur.com/biEclAI.png) NoteScape
+# ![logo](https://i.imgur.com/biEclAI.png) ~~NoteScape~~ (deprecated, visit [NoteScape v2](https://github.com/maheshpaulj/NoteScape-2.0))
 
 NoteScape is a powerful and versatile note-taking app designed to enhance your productivity and organization. Featuring bulletins, to-dos, image uploads, and an AI assistant, NoteScape offers seamless sync across devices and a rich editing experience. read the [blog](https://t.ly/t0ryI) to know how I made this project.
 ![ss](./public/assets/mockup.png)
